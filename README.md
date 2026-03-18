@@ -6,3 +6,6 @@ The workflow includes two node. Former is writer, the latter is critic. They wor
 
 ## Basic ChatBot with Langgraph
 Takes input from user. Sends it OpenAI and gets a response. It does these with a loop so you can talk with him until you say "exit". Also, It saves the conversation history, that's mean, for example, when you say your name it remembers you.
+
+## Customer Service Bot
+The main purporse of that bot is routing the question of customer (possibly asked to a website chatbot) to the specific departmant of company includes. By this way, the agents that are being to other departments can answer accurately.
